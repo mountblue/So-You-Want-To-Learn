@@ -1,6 +1,7 @@
 # So You Want to Learn React.js
 
 Compiled by :: Mukund Krishnamurthy
+
 Last updated :: May, 25th 2021
 
 ### What is document for?
@@ -9,7 +10,7 @@ This document is put together by the mentors at MountBlue, for our own students 
 
 ### Ecosystem
 
-React on its own is a great UI library, but the true power or React comes out when used with libraries like ...
+React on its own, is a great UI library, but the true power or React comes out when used with libraries like ...
 
 1. Redux
 2. React-Router
