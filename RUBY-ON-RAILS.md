@@ -16,9 +16,20 @@ Ruby on Rails or RoR as its popularly called, is a MVC, server-side web applicat
 
 The RoR ecosystem is HUGE. Which is natural considering RoR has been around since 2004. The following are a list of what we think are essential Rails Gems.
 
-1. Devise.
-2. ....
+1. [Devise](https://github.com/heartcombo/devise) a flexible authentication system.
+2. [Pundit](https://rubygems.org/gems/pundit) Object oriented authorization for Rails applications.
+3. [Simple Form](https://github.com/heartcombo/simple_form) Powerful form handling in Rails.
 
-## Ruby
+### Free
 
-## Ruby on Rails
+Free Code Camp has been an amazing resource to learn programming and all of it is for free! The following two YouTube videos teach you, first the Ruby language and then the Ruby on Rails framework.
+
+* [freeCodeCamp's Ruby tutorial](https://www.youtube.com/watch?v=t_ispmWmdjY)
+* [freeCodeCamp's Rails tutorial](https://www.youtube.com/watch?v=fmyvWz5TUWg)
+
+### Paid
+
+
+I have personally taken this course on Udemy and its good. I covers both the ruby language and Ruby on Rails. It also covers sone design libraries like Materialize and its integration with Rails. It has been update to Rails 6.
+
+[The complete Ruby on Rails developer course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)

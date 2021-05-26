@@ -15,9 +15,14 @@ React on its own, is a great UI library, but the true power or React comes out w
 1. [Redux](https://redux.js.org/)
 2. [React-Router](https://reactrouter.com/)
 3. [React-Recompose](https://www.npmjs.com/package/react-recompose)
-3. [Redux-Form](https://redux-form.com)
+4. [Redux-Form](https://redux-form.com)
+5. [React-Query](https://react-query.tanstack.com/)
+6. [SWR](https://swr.vercel.app/) React Hooks library for data fetching
 
 And many more ...
+
+#### Next.js
+Next.js elevates React to the next level with a host of features like server side rendering, etc.
 
 
 ### Free Resources
