@@ -6,16 +6,16 @@ Last updated :: May, 25th 2021
 
 ### What is document for?
 
-This document is put together by the mentors at MountBlue, for our own students in non "JS Frontend" bootcamps like the Python, Ruby, Golang, Java ones, to learn React on their own. We would very happy if this helps people other than our students.
+This document is put together by the mentors at MountBlue, for our own students from non "JS Frontend" bootcamps like the Python, Ruby, Golang, Java, to learn React on their own. We would very happy if this helps people other than our students.
 
 ### Ecosystem
 
 React on its own, is a great UI library, but the true power or React comes out when used with libraries like ...
 
-1. Redux
-2. React-Router
-3. Recompense
-4. Redux-Forms
+1. [Redux](https://redux.js.org/)
+2. [React-Router](https://reactrouter.com/)
+3. [React-Recompose](https://www.npmjs.com/package/react-recompose)
+3. [Redux-Form](https://redux-form.com)
 
 And many more ...
 
@@ -26,7 +26,7 @@ The following are a great starting point for your journey. They are on YouTube.
 
 Suggested by Sachin.
 
-1. Comprehensive stater course on ReactJS (Including hooks) by the popular YouTuber Vishwas (@CodevolutionWeb)
+1. Comprehensive starter course on ReactJS (Including hooks) by the popular YouTuber Vishwas (@CodevolutionWeb)
 
    https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
 
