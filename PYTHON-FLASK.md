@@ -12,7 +12,7 @@ This document is put together by the mentors at MountBlue, for our own students 
 
 This is what the Flask website says about Flask ...
 
-Flask is a micro-framework writthe in python. What's a micro-framework you ask, a micro-framework concentrates on doing the core functionality of a web framework like http, routing etc. Features that come standard in a full webpframework
+Flask is a micro-framework written in python. What's a micro-framework you ask, a micro-framework concentrates on doing the core functionality of a web framework like http, routing etc. Features that come standard in a full web framework like ORM, authentication, templating, form handling are not present in micro-frameworks and it is up to the developer to add these features in.
 
 ### Don't know python?
 
@@ -25,3 +25,8 @@ Generally with everything related to learning programming, the `freeCodeCamp` vi
 
 2. [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
    Though not strictly necessary for learning Flask, this one is strongly recommended. You will learn topics like collections, decorators, and a look at the important parts of the standard library.
+
+### Flask
+
+1. As simple introduction to flask
+   [Learn Flask for Python](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
