@@ -6,7 +6,7 @@ Last updated :: May, 25th 2021
 
 ### What is document for?
 
-This document is put together by the mentors at MountBlue, for our own students from non "JS Frontend" bootcamps like the Python, Ruby, Golang, Java, to learn React on their own. We would very happy if this helps people other than our students.
+This document is put together by the mentors at MountBlue, for our own students from non "JS Frontend" bootcamps like Python, Ruby, Golang, Java, to learn React on their own. We would be very happy if this helps people other than our students.
 
 ### Ecosystem
 
