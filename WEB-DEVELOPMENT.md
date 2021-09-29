@@ -2,7 +2,7 @@
 
 ## Current Scenario in the Industry
 
-The number of Software Developers are expected to grom from the current 27 million (in 2021) to 45 million (in 2030).
+The number of Software Developers are expected to grow from the current 27 million (in 2021) to 45 million (in 2030).
 Source: https://www.daxx.com/blog/development-trends/number-software-developers-world
 
 There are many different roles in the industry:
